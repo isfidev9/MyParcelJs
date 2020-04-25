@@ -1,5 +1,5 @@
 # MyParcelJs
-# Create Simple Site Using Parcel
+Create Simple Site Using Parcel
 
 ### Installation
 
@@ -9,7 +9,7 @@ Using Clonening--
 $ git clone https://github.com/isfidev9/MyParcelJs.git
 ```
 
-Or Download zip a href="https://github.com/isfidev9/MyParcelJs/archive/master.zip">Here</a>
+Or Download zip [DownloadHere](https://github.com/isfidev9/MyParcelJs/archive/master.zip)
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
