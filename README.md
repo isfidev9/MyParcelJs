@@ -1,11 +1,32 @@
 # MyParcelJs
 # Create Simple Site Using Parcel
-###Get Started
-Using cloning:  git clone https://github.com/isfidev9/MyParcelJs.git<br>
-Or Download <a href="https://github.com/isfidev9/MyParcelJs/archive/master.zip">Here</a>
+
+### Installation
+
+Using Clonening--
+
+```sh
+$ git clone https://github.com/isfidev9/MyParcelJs.git
+```
+
+Or Download zip a href="https://github.com/isfidev9/MyParcelJs/archive/master.zip">Here</a>
+
+Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
+
+After completing it, then open your terminal
+Install the dependencies and devDependencies and start the server.
 
 
-#After completing it, then open your terminal. 
-type <span style="color:yellow;">cd -path/to work directory-</span><br>
-then type <span style="color:yellow;">npm init -y</span><br>
-and finish by typing <span style="color:yellow;">npm run dev</span>
+```sh
+$ cd MyParcelJs
+$ npm install parcel-bundler
+$ npm init -y
+$ npm run dev
+```
+
+[!Finished]
+Verify the deployment by navigating to your server address in your preferred browser.
+
+```sh
+http://localhost:1234/
+```
